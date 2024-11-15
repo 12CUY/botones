@@ -1,6 +1,3 @@
-# Calculadora Flutter
-
-Este es un proyecto de Flutter para construir un diseño de **bootstrap.**
 
 ## Descripción
 
